@@ -20,6 +20,7 @@
  * Place, Suite 330, Boston, MA 02111-1307 USA
  *
  */
+ ini_set('display_errors', 1);
 $tstart= microtime(true);
 
 /* define this as true in another entry file, then include this file to simply access the API

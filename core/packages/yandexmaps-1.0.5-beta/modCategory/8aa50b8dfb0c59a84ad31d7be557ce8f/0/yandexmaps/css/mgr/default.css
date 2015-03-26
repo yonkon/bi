@@ -1,0 +1,21 @@
+
+#yandexmaps-search-form {
+	display: block;
+	margin: 5px 0;
+	overflow: hidden;
+}
+#yandexmaps-search-form input.yandexmaps-form-text {
+	margin: 5px 10px 5px 0;
+	width: 400px;
+	padding: 4px;
+}
+#yandexmaps-search-form input.yandexmaps-form-submit {
+	margin: 0;
+	width: 75px;
+	padding: 4px;
+}
+.yandexmaps-terms {
+	text-align: right;
+}
+.yandexmaps-map-wrapper { position:relative; }
+.yandexmaps-map { width:500px; height:400px; margin:10px 0; }

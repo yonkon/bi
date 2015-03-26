@@ -15,35 +15,35 @@ $config_options = array (
 $driver_options = array (
 );
 
-$lastInstallTime = 1426628727;
+$lastInstallTime = 1426643716;
 
-$site_id = 'modx5508a077df4b01.97655644';
-$site_sessionname = 'SN5508a01e97f60';
+$site_id = 'modx5508db04c81099.06356331';
+$site_sessionname = 'SN5508da48d06ac';
 $https_port = '443';
-$uuid = '2e9f0ede-4ff7-4290-ba0f-041e8ed47c0e';
+$uuid = '78b3cc82-6ea2-4e75-8096-815aaf092a57';
 
 if (!defined('MODX_CORE_PATH')) {
-    $modx_core_path= '/home/x-iler/proj/bi/core/';
+    $modx_core_path= '/home/shikon/proj/bi/core/';
     define('MODX_CORE_PATH', $modx_core_path);
 }
 if (!defined('MODX_PROCESSORS_PATH')) {
-    $modx_processors_path= '/home/x-iler/proj/bi/core/model/modx/processors/';
+    $modx_processors_path= '/home/shikon/proj/bi/core/model/modx/processors/';
     define('MODX_PROCESSORS_PATH', $modx_processors_path);
 }
 if (!defined('MODX_CONNECTORS_PATH')) {
-    $modx_connectors_path= '/home/x-iler/proj/bi/connectors/';
+    $modx_connectors_path= '/home/shikon/proj/bi/connectors/';
     $modx_connectors_url= '/connectors/';
     define('MODX_CONNECTORS_PATH', $modx_connectors_path);
     define('MODX_CONNECTORS_URL', $modx_connectors_url);
 }
 if (!defined('MODX_MANAGER_PATH')) {
-    $modx_manager_path= '/home/x-iler/proj/bi/manager/';
+    $modx_manager_path= '/home/shikon/proj/bi/manager/';
     $modx_manager_url= '/manager/';
     define('MODX_MANAGER_PATH', $modx_manager_path);
     define('MODX_MANAGER_URL', $modx_manager_url);
 }
 if (!defined('MODX_BASE_PATH')) {
-    $modx_base_path= '/home/x-iler/proj/bi/';
+    $modx_base_path= '/home/shikon/proj/bi/';
     $modx_base_url= '/';
     define('MODX_BASE_PATH', $modx_base_path);
     define('MODX_BASE_URL', $modx_base_url);
@@ -75,7 +75,7 @@ if (!defined('MODX_SITE_URL')) {
     define('MODX_SITE_URL', $site_url);
 }
 if (!defined('MODX_ASSETS_PATH')) {
-    $modx_assets_path= '/home/x-iler/proj/bi/assets/';
+    $modx_assets_path= '/home/shikon/proj/bi/assets/';
     $modx_assets_url= '/assets/';
     define('MODX_ASSETS_PATH', $modx_assets_path);
     define('MODX_ASSETS_URL', $modx_assets_url);
